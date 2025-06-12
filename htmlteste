@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Recafrost</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="logo"><span class="bold">Reca</span><span class="light">frost</span></div>
+    <nav>
+      <a href="#" class="active">Página inicial</a>
+      <a href="#">Sobre</a>
+      <a href="#">Manutenção</a>
+      <a href="#">Login</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>Sua organização,<br>nossa solução</h1>
+    <p>Tudo no lugar certo para sua empresa.</p>
+  </section>
+
+  <section class="acoes">
+    <h2>Ações</h2>
+    <a href="#" class="ver-todas">Ver todas ›</a>
+    <div class="cards">
+      <div class="card">
+        <img src="https://img.icons8.com/ios/50/user-group-man-man.png" alt="Clientes">
+        <p>Cliente(s)</p>
+      </div>
+      <div class="card">
+        <img src="https://img.icons8.com/ios/50/checklist.png" alt="Checklist">
+        <p>Checklist</p>
+      </div>
+      <div class="card">
+        <img src="https://img.icons8.com/ios/50/report-card.png" alt="Relatório">
+        <p>Relatório</p>
+      </div>
+    </div>
+  </section>
+</body>
+</html>
